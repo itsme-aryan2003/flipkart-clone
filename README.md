@@ -83,6 +83,5 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
   </tr>
 </table>
 
-<h2>📬 Contact</h2>
 
 
